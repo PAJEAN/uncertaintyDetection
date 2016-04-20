@@ -3,7 +3,7 @@
 Author:
  + Pierre-Antoine Jean.
  
-Thank to:
+Co-authors:
  + Sebastien Harispe
  + Sylvie Ranwez
  + Patrice Bellot
