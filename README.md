@@ -29,8 +29,11 @@ Then, MUD.py allow to build features matrice, execute the SVM method and print p
 #### Run ####
 Run MUD.py with at least one option:
  + Choose your training corpus
- 	. w = WikiWeasel - Wikipedia articles - (semantic uncertainty and discourse-level uncertainty)
- 	. b = BioScope - biomedical papers - (semantic uncertainty)
+ 
+	. w = WikiWeasel - Wikipedia articles - (semantic uncertainty and discourse-level uncertainty)
+ 
+	. b = BioScope - biomedical papers - (semantic uncertainty)
+
  	. sfu = SFU corpus - gereral corpus - (semantic uncertainty)
  + (optional) your file with one sentence per line.
 
