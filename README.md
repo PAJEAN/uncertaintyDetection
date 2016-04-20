@@ -13,6 +13,7 @@ MUD (Multiple Uncertainty Detection) allow to detect linguistic uncertainty in n
 
 #### Dependences ####
 MUD.py require:
+ + Python 2.7
  + nltk http://www.nltk.org/
  + numpy http://www.numpy.org/
  + sklearn http://scikit-learn.org/stable/
