@@ -1,7 +1,7 @@
 # MUD
 
 Author:
- + Pierre-Antoine Jean.
+ + Pierre-Antoine Jean
  
 Co-authors:
  + Sebastien Harispe
