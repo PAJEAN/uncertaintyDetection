@@ -12,7 +12,7 @@ Co-authors:
 MUD (Multiple Uncertainty Detection) allows to detect linguistic uncertainty in natural language. It is based on the statistical analysis of multiple lexical and syntactic features used to characterize sentences through vector-based representations that can be analyzed by proven classification methods.
 
 #### Dependences ####
-MUD.py require:
+MUD.py requires:
  + Python 2.7
  + nltk http://www.nltk.org/
  + numpy http://www.numpy.org/
