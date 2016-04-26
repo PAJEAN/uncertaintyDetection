@@ -26,7 +26,7 @@ Binomial_law.py allows to calculate the binomial law for lemms, bigrams, trigram
 
 Binomial_law.py uses pattern_cue_pos.py to build files lemms, bigrams, trigrams and PoS patterns with their p(w) value.
 
-Then, MUD.py allows to build features matrice, executes the SVM method and print precision, recall and F-mesure in case of evaluation mode.
+Then, MUD.py allows to build features matrice, executes the SVM method and print precision, recall and F-measure in case of evaluation mode.
 
 #### Run ####
 Run MUD.py with at least one option:
