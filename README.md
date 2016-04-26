@@ -18,7 +18,7 @@ MUD.py requires:
  + numpy http://www.numpy.org/
  + sklearn http://scikit-learn.org/stable/
 
-#### Folders ####
+#### Folder ####
 Data folder contain WikiWeasel, BioScope and SFU data (after the conversion of the XML format) and various files build by scripts.
 
 #### Scripts description ####
