@@ -19,7 +19,7 @@ MUD.py requires:
  + sklearn http://scikit-learn.org/stable/
 
 #### Folder ####
-Data folder contain WikiWeasel, BioScope and SFU data (after the conversion of the XML format) and various files build by scripts.
+Data folder contains WikiWeasel, BioScope and SFU data (after the conversion of the XML format) and various files build by the program.
 
 #### Scripts description ####
 Binomial_law.py allows to calculate the binomial law for lemms, bigrams, trigrams and PoS patterns. Moreover, this script calculates p(U).
