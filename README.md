@@ -22,9 +22,11 @@ MUD.py require:
 Data folder contain WikiWeasel, BioScope and SFU data (after the conversion of the XML format) and various files build by scripts.
 
 #### Scripts description ####
-Binomial_law.py allow to calculate the binomial law for lemms, bigrams, trigrams and PoS patterns. Moreover, this script calculate p(U).
-Binomial_law.py use pattern_cue_pos.py to build files lemms, bigrams, trigrams and PoS patterns with their p(w) value.
-Then, MUD.py allow to build features matrice, execute the SVM method and print precision, recall and F-mesure in case of evaluation mode.
+Binomial_law.py allows to calculate the binomial law for lemms, bigrams, trigrams and PoS patterns. Moreover, this script calculates p(U).
+
+Binomial_law.py uses pattern_cue_pos.py to build files lemms, bigrams, trigrams and PoS patterns with their p(w) value.
+
+Then, MUD.py allows to build features matrice, executes the SVM method and print precision, recall and F-mesure in case of evaluation mode.
 
 #### Run ####
 Run MUD.py with at least one option:
